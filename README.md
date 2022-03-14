@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AoufiAbderahmane front-end developer
+- 👋 Hi, I’m @AoufiAbderahmane mobile app developer
 - 👀 I’m interested in anything related to IT
 - 🌱 I’m currently learning react-native
 - 💞️ I’m looking to collaborate on any project related to react-native
